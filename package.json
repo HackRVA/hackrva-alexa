@@ -1,0 +1,23 @@
+{
+  "name": "hackrva-alexa-app-server",
+  "version": "1.0.0",
+  "description": "App Server for hackrva alexa app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackRVA/hackrva-alexa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HackRVA/hackrva-alexa/issues"
+  },
+  "homepage": "https://github.com/HackRVA/hackrva-alexa#readme",
+  "dependencies": {
+    "alexa-app": "^4.0.1",
+    "alexa-app-server": "^3.0.1"
+  }
+}
